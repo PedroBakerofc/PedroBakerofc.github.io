@@ -88,6 +88,8 @@
 
 
 
+
+
 .kaushan-script-regular {
   font-family: "Kaushan Script", cursive;
   font-weight: 900;
@@ -3808,6 +3810,7 @@ textarea.form-control-lg {
   align-items: center;
   justify-content: space-between;
   padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
+  background: url('/img/carrosel1.png');
 }
 .navbar > .container,
 .navbar > .container-fluid,
